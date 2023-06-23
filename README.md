@@ -15,27 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full-Stack Projects
+## Full-Stack Projects
+<details>
+<summary>Description</summary>
+
+some text
+
+</details>
+
+## Machine Learning Projects
 
 
-Machine Learning Projects
+## Math Competitions
 
 
-Math Competitions
+## Research Papers
 
 
-Research Papers
-
-
+## Personal Portfolio
 Learn more about me on my personal website!
 
 add some visual here with your name (preferably a gif)
 
 
-(Visualize the following:)
 
-Github Stats
-Languages used
+
+### Github Stats
+visualize this
+
+### Languages used
 
 
 ### Let's Connect!
