@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi! I'm Rosanne Zhu 👋
+I'm a Computer Science student studying at the University of Waterloo. 
 <!--
 **roskzhu/roskzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +11,33 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+
+Full-Stack Projects
+
+
+Machine Learning Projects
+
+
+Math Competitions
+
+
+Research Papers
+
+
+Learn more about me on my personal website!
+
+add some visual here with your name (preferably a gif)
+
+
+(Visualize the following:)
+
+Github Stats
+Languages used
+
+
+### Let's Connect!
+* Email: rosannezhu@gmail.com
+* LinkedIn: https://www.linkedin.com/in/rosanne-zhu/
