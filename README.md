@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <details>
 <summary>Description</summary>
 
-some text
+visualized and formatted projects
 
 </details>
 
