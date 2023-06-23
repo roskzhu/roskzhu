@@ -24,7 +24,12 @@ visualized and formatted projects
 </details>
 
 ## Machine Learning Projects
+<details>
+<summary>I've worked on a number of computer-vision projects before and am learning more about NLP. </summary>
 
+visualized and formatted projects
+
+</details>
 
 ## Math Competitions
 
