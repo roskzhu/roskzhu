@@ -1,3 +1,10 @@
+<a href="https://www.linkedin.com/in/rosanne-zhu/">
+  <img align="right" alt="LinkedIn" width="32px" src="/assets/linkedin.svg" />
+</a>
+<a href="mailto: rosannezhug@gmail.com">
+  <img align="right" alt="email" width="32px" src="/assets/mail.png" />
+</a>
+
 # Hi! I'm Rosanne Zhu 👋
 I'm a Computer Science student studying at the University of Waterloo. 
 <!--
