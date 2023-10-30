@@ -6,24 +6,12 @@
 </a>
 
 # Hi! I'm Rosanne 
-I'm a Computer Science student studying at the University of Waterloo. 
+Hey there! I'm a Computer Science student at the University of Waterloo. I'm currently searching for Winter/Summer 2024 internship opportunities. 
 
-*** add what you're currently working on
-## Projects
-<details>
-<summary>I've worked on a number of computer-vision projects before and am learning more about NLP. </summary>
-
-visualized and formatted projects
-
-</details>
-
-
-
-### Github Stats
-visualize this
-
-### Languages used
-
+### Tech Stack
+* Python, C++, Java
+* Javascript, Typescript, React
+* Flask, SQL, SQLite, AWS
 
 ### Let's Connect!
 * Email: rosannezhu@gmail.com
