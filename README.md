@@ -9,7 +9,6 @@
 Hey there! I'm a Computer Science student at the University of Waterloo. I'm currently searching for Winter/Summer 2024 internship opportunities. Currently, I'm working as a SWE intern for BMO Financial Group.
 
 ### Projects
-<summary>I've worked on a number of computer-vision projects before and am learning more about NLP.</summary>
 <br/>
   <p>
     <a href="https://github.com/roskzhu/iSpy">
