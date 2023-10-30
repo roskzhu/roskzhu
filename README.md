@@ -30,25 +30,13 @@ visualized and formatted projects
 
 </details>
 
-## Machine Learning Projects
+## Projects
 <details>
 <summary>I've worked on a number of computer-vision projects before and am learning more about NLP. </summary>
 
 visualized and formatted projects
 
 </details>
-
-## Math Competitions
-
-
-## Research Papers
-
-
-## Personal Portfolio
-Learn more about me on my personal website!
-
-add some visual here with your name (preferably a gif)
-
 
 
 
