@@ -5,31 +5,10 @@
   <img align="right" alt="email" width="32px" src="/assets/mail.png" />
 </a>
 
-# Hi! I'm Rosanne Zhu 👋
+# Hi! I'm Rosanne 
 I'm a Computer Science student studying at the University of Waterloo. 
 
 *** add what you're currently working on
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
-- 😄 Pronouns: she/her
-
-## Full-Stack Projects
-<details>
-<summary>Description</summary>
-
-visualized and formatted projects
-
-</details>
-
 ## Projects
 <details>
 <summary>I've worked on a number of computer-vision projects before and am learning more about NLP. </summary>
