@@ -10,8 +10,7 @@ Hey there! I'm a Computer Science student at the University of Waterloo. I'm cur
 
 ### Projects
 <details>
-<summary>I've worked on a number of computer-vision projects before and am learning more about NLP. </summary>
- <br />
+I've worked on a number of computer-vision projects before and am learning more about NLP.
   <p>
     <a href="https://github.com/roskzhu/iSpy">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=gotham&show_owner=true"/>
