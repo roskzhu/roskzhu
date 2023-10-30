@@ -21,7 +21,7 @@ Machine-learning and full-stack creations.
 
 </details>
 
-## Tech Stack
+## Technologies
 * Python, C++, Java
 * Javascript, Typescript, React
 * Flask, SQL, SQLite, AWS
