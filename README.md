@@ -1,7 +1,7 @@
 # Hi, I'm Rosanne!
 Hey there! I'm a Computer Science student at the University of Waterloo. I'm currently searching for Winter/Summer 2024 internship opportunities. Currently, I'm working as a SWE intern for BMO Financial Group.
 
-### Projects
+## Projects
 Machine-learning and full-stack creations.
 <br/>
   <p>
@@ -21,11 +21,11 @@ Machine-learning and full-stack creations.
 
 </details>
 
-### Tech Stack
+## Tech Stack
 * Python, C++, Java
 * Javascript, Typescript, React
 * Flask, SQL, SQLite, AWS
 
-### Let's Connect!
+## Let's Connect!
 * Email: rosannezhu@gmail.com
 * LinkedIn: https://www.linkedin.com/in/rosanne-zhu/
