@@ -25,6 +25,9 @@ Machine-learning and full-stack creations.
 * Python, C++, Java
 * Javascript, Typescript, React
 * Flask, SQL, SQLite, AWS
+<a href="https://github.com/roskzhu/roskzhu">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+</a>
 
 ## Let's Connect!
 * Email: rosannezhu@gmail.com
