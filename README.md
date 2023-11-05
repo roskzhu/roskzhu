@@ -29,3 +29,4 @@ Machine-learning and full-stack creations.
 ## Let's Connect!
 * Email: rosannezhu@gmail.com
 * LinkedIn: https://www.linkedin.com/in/rosanne-zhu/
+* Personal website: rosannezhu.com
