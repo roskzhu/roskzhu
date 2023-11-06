@@ -3,8 +3,8 @@
 Hey there! I'm a Computer Science student at the University of Waterloo searching for Winter/Summer 2024 internship opportunities. Currently, I'm working as a SWE intern for BMO Financial Group.
 I have great interest in full-stack development, machine learning, cybersecurity, and everything in between. Scroll down to see some of my work.
 
-## Projects 💻
-Machine-learning and full-stack creations.
+## Full-stack Projects 💻
+Collaborative projects I made with my peers, and personal projects I've done in my own time.
 <br/>
   <p>
     <a href="https://github.com/roskzhu/iSpy">
@@ -16,8 +16,19 @@ Machine-learning and full-stack creations.
     <a href="https://github.com/roskzhu/FridgeSmart">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham&show_owner=true"/>
     </a>
+  </p>
+
+</details>
+
+## Machine Learning Projects 💻
+I've worked on a variety of machine-learning projects, as artificial intelligence is a sector I'm looking to specialize in. 
+<br/>
+  <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=gotham&show_owner=true"/>
+    </a>
+      <a href="https://github.com/roskzhu/IntactChallenge">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=gotham&show_owner=true"/>
     </a>
   </p>
 
