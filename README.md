@@ -1,4 +1,4 @@
-[![website](display.svg "website")](https://rosannezhu.com)
+[![website](display.png "website")](https://rosannezhu.com)
 # Hi, I'm Rosanne!
 Hey there! I'm a Computer Science student at the University of Waterloo searching for Winter/Summer 2024 internship opportunities. Currently, I'm working as a SWE intern for BMO Financial Group.
 
