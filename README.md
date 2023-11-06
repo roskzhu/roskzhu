@@ -23,11 +23,10 @@ Machine-learning and full-stack creations.
 </details>
 
 ## Technologies 🔧
-* Python, C++, Java
-* Flask, SQL, SQLite, AWS
-* Javascript, Typescript, React
+* Languages/Frameworks: `Python`, `C/C++`, `Java`, `Javascript`, `Typescript`, `React`, `HTML/CSS`, `Node.js`, `SQL`,  `Bash`, `TensorFlow`, `PyTorch`, `OpenCV`, `Keras`, `RESTful API`, `Flask`
+* Developer Tools: `Linux`, `Git`, `AWS`, `Docker`, `SQLite`
 
-## Let's Connect! 🗨️
-* Email: rosannezhu@gmail.com
-* LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
-* Personal website: [rosannezhu.com](https://rosannezhu.com/)
+## Send me a message! 🗨️
+* Email me at: rosannezhu@gmail.com
+* Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
+* Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
