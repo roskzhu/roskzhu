@@ -23,7 +23,8 @@ Machine-learning and full-stack creations.
 </details>
 
 ## Technologies 🔧
-* Languages/Frameworks: `Python` `C/C++` `Java` `Javascript` `Typescript` `React` `HTML/CSS` `Node.js` `SQL`  `Bash` `REST API` `Flask` `TensorFlow` `PyTorch` `OpenCV` `Keras`
+* Languages: `Python` `C/C++` `Java` `Javascript` `Typescript` `React` `HTML/CSS` `Node.js` `SQL`  `Bash` `REST API` `Flask`
+* Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
 ## Send me a message! 🗨️
