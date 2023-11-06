@@ -23,8 +23,8 @@ Machine-learning and full-stack creations.
 </details>
 
 ## Technologies 🔧
-* Languages/Frameworks: `Python`, `C/C++`, `Java`, `Javascript`, `Typescript`, `React`, `HTML/CSS`, `Node.js`, `SQL`,  `Bash`, `TensorFlow`, `PyTorch`, `OpenCV`, `Keras`, `RESTful API`, `Flask`
-* Developer Tools: `Linux`, `Git`, `AWS`, `Docker`, `SQLite`
+* Languages/Frameworks: `Python` `C/C++` `Java` `Javascript` `Typescript` `React` `HTML/CSS` `Node.js` `SQL`  `Bash` `TensorFlow` `PyTorch` `OpenCV` `Keras` `RESTful API` `Flask`
+* Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
 ## Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
