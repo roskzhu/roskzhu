@@ -16,6 +16,9 @@ Collaborative projects I made with my peers, and personal projects I've done in 
     <a href="https://github.com/roskzhu/CollaboraCart">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=gotham&show_owner=true"/>
     </a>
+    <a href="https://github.com/roskzhu/FridgeSmart">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham&show_owner=true"/>
+    </a>
   </p>
 
 </details>
