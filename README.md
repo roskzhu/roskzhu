@@ -28,10 +28,10 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 <br/>
   <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=holi&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=github_dark&show_owner=true"/>
     </a>
       <a href="https://github.com/roskzhu/IntactChallenge">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=holi&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=github_dark&show_owner=true"/>
     </a>
   </p>
 
