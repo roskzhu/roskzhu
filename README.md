@@ -8,13 +8,13 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 <br/>
   <p>
     <a href="https://github.com/roskzhu/CareCompanion">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=transparent"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=transparent"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=holi"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=nightowl"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=github_dark"/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham"/>
