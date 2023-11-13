@@ -8,16 +8,16 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 <br/>
   <p>
     <a href="https://github.com/roskzhu/CareCompanion">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=nightowl"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=tokyonight"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy-V2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=nightowl"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=tokyonight"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=nightowl"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=tokyonight"/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=nightowl"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=tokyonight"/>
     </a>
   </p>
 
@@ -28,10 +28,10 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 <br/>
   <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=nightowl&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=tokyonight&show_owner=true"/>
     </a>
       <a href="https://github.com/roskzhu/IntactChallenge">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=nightowl&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=tokyonight&show_owner=true"/>
     </a>
   </p>
 
