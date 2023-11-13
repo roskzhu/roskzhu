@@ -7,6 +7,9 @@ I have great interest in full-stack development, machine learning, cybersecurity
 Collaborative projects I made with my peers, and personal projects I've done in my own time.
 <br/>
   <p>
+    <a href="https://github.com/roskzhu/CareCompanion">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=gotham&show_owner=true"/>
+    </a>    
     <a href="https://github.com/roskzhu/iSpy">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=gotham&show_owner=true"/>
     </a>
