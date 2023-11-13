@@ -11,7 +11,7 @@ Collaborative projects I made with my peers, and personal projects I've done in 
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=nightowl"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy-V2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=gotham"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=tokyonight"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=nightowl"/>
