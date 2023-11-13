@@ -11,13 +11,13 @@ Collaborative projects I made with my peers, and personal projects I've done in 
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=tokyonight"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=gotham&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=transparent"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=gotham&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=nightowl"/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham"/>
     </a>
   </p>
 
