@@ -39,7 +39,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 
 ## Technologies 🔧
 * Languages: `Python` `C/C++` `Java` `Javascript` `Typescript`  `HTML/CSS` `SQL`  `Bash`  
-* Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React` `Node.js` `Flask` `REST API`
+* Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
 ## Send me a message! 🗨️
