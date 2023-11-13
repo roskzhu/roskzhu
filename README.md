@@ -8,16 +8,16 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 <br/>
   <p>
     <a href="https://github.com/roskzhu/CareCompanion">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=aura"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=catppuccin_mocha"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=aura"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy&theme=catppuccin_mocha"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=aura"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=catppuccin_mocha"/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=aura"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=catppuccin_mocha"/>
     </a>
   </p>
 
