@@ -42,6 +42,9 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 * Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roskzhu)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roskzhu&show_icons=true&theme=tokyonight&count_private=true)
+
 ## Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
