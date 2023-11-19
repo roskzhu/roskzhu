@@ -38,7 +38,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 </details>
 
 ## Technologies 🔧
-* Languages: `Python` `C/C++` `Java` `Javascript` `Typescript`  `HTML/CSS` `SQL`  `Bash`  
+* Languages: `Python` `C/C++` `Java` `Golang` `Javascript` `Typescript`  `HTML/CSS` `SQL`  `Bash`  
 * Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
