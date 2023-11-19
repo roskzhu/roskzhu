@@ -42,21 +42,6 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 * Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roskzhu)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roskzhu&show_icons=true&theme=tokyonight&count_private=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roskzhu.roskzhu)
-![](https://img.shields.io/github/followers/roskzhu?style=social)
-![](https://img.shields.io/github/forks/roskzhu/roskzhu.github.io?style=social)
-![](https://img.shields.io/github/stars/roskzhu?style=social)
-![](https://img.shields.io/github/watchers/roskzhu/roskzhu.github.io?style=social)
-
-<a href="https://github.com/roskzhu/roskzhu">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-</a>
-<a href="https://github.com/roskzhu/roskzhu">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roskzhu&theme=gotham&show_icons=true)" alt="GitHub Stats" />
-</a>
-
 
 ## Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
