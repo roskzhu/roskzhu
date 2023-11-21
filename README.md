@@ -49,7 +49,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 * Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
 
 ![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&layout=compact&theme=tokyonight)
-
+[![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)]
 <div>
 <!-- ## Github Stats -->
 <!-- [![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)]() -->
