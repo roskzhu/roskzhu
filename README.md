@@ -41,13 +41,15 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 * Languages: `Python` `C/C++` `Java` `Golang` `Javascript` `Typescript`  `HTML/CSS` `SQL`  `Bash`  
 * Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
-<div>
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=tokyonight&showicons=true)]() -->
-</div>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roskzhu&langs_count=5&theme=tokyonight)]()
 
 ## Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
 * Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
+
+## Github Stats
+[![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)]()
+<div>
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=tokyonight&showicons=true)]() -->
+</div>
