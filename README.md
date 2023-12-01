@@ -8,16 +8,16 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 <br/>
   <p>
     <a href="https://github.com/roskzhu/CareCompanion">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=gotham"/>
     </a>    
     <a href="https://github.com/roskzhu/iSpy-V2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=gotham"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=gotham"/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=tokyonight"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=gotham"/>
     </a>
   </p>
 
@@ -28,10 +28,10 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 <br/>
   <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=tokyonight&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=gotham&show_owner=true"/>
     </a>
       <a href="https://github.com/roskzhu/IntactChallenge">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=tokyonight&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=gotham&show_owner=true"/>
     </a>
   </p>
 
@@ -51,5 +51,5 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 <div>
 <!-- ## Github Stats -->
 <!-- [![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)]() -->
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=tokyonight&showicons=true)]() -->
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=gotham&showicons=true)]() -->
 </div>
