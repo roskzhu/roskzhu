@@ -1,6 +1,6 @@
 [![website](display.svg "website")](https://rosannezhu.com)
 # Welcome to my GitHub page! I'm Rosanne 👋
-Hey there! I'm a Computer Science student at the University of Waterloo searching for Winter/Summer 2024 internship opportunities. Previously, I worked as a SWE intern for BMO Financial Group.
+Hey there! I'm a Computer Science student at the University of Waterloo searching for Summer 2024 internship opportunities. Previously, I worked as a SWE intern for BMO Financial Group.
 I have great interest in full-stack development, machine learning, cybersecurity, and everything in between. Scroll down to see some of my work.
 
 ## Full-stack Projects 💻
@@ -10,8 +10,8 @@ Collaborative projects I made with my peers, and personal projects I've done in 
     <a href="https://github.com/roskzhu/CareCompanion">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=gotham"/>
     </a>    
-    <a href="https://github.com/roskzhu/iSpy-V2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=iSpy-V2&theme=gotham"/>
+    <a href="https://github.com/roskzhu/Toronto-Shelter-Metrics-Map">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Toronto-Shelter-Metrics-Map&theme=gotham"/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=gotham"/>
@@ -38,7 +38,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 </details>
 
 ## Technologies 🔧
-* Languages: `Python` `C/C++` `Java` `Golang` `Javascript` `Typescript`  `HTML/CSS` `SQL`  `Bash`  
+* Languages: `Python` `C/C++` `Golang` `Java` `Javascript` `Typescript`  `SQL`  `Bash`  
 * Frameworks/Libraries: `TensorFlow` `PyTorch` `OpenCV` `Keras` `React.js` `Node.js` `Flask` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
 
