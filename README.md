@@ -8,16 +8,16 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 <br/>
   <p>
     <a href="https://github.com/roskzhu/CareCompanion">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=transparent"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=github_dark "/>
     </a>    
     <a href="https://github.com/roskzhu/Toronto-Shelter-Metrics-Map">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Toronto-Shelter-Metrics-Map&theme=transparent"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Toronto-Shelter-Metrics-Map&theme=github_dark "/>
     </a>
     <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=transparent"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=github_dark "/>
     </a>
     <a href="https://github.com/roskzhu/FridgeSmart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=transparent"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=FridgeSmart&theme=github_dark "/>
     </a>
   </p>
 
@@ -28,10 +28,10 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 <br/>
   <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=transparent&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=github_dark &show_owner=true"/>
     </a>
       <a href="https://github.com/roskzhu/IntactChallenge">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=transparent&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=github_dark &show_owner=true"/>
     </a>
   </p>
 
