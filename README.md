@@ -40,7 +40,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 ## Technologies 🔧
 * Languages: `Python` `C/C++` `Golang` `Java` `Javascript` `Typescript`  `SQL`  `Bash`  
 * Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
-* Developer Tools: `Linux` `Git` `AWS` `Docker` `SQLite`
+* Developer Tools: `Linux` `Git` `AWS` `Docker` `MongoDB` `PostgreSQL` `SQLite`
 
 
 ## Send me a message! 🗨️
