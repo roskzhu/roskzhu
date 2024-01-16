@@ -5,8 +5,7 @@ I have great interest in full-stack development, machine learning, cybersecurity
 
 ## Full-stack Projects 💻
 
-
-<summary>Collaborative projects I made with my peers, and personal projects I've done in my own time.</summary>
+Collaborative projects I made with my peers, and personal projects I've done in my own time.</summary>
     
   <br/>
   <p>
