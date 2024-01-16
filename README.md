@@ -4,7 +4,8 @@ Hey there! I'm a Computer Science student at the University of Waterloo searchin
 I have great interest in full-stack development, machine learning, cybersecurity, and everything in between. Scroll down to see some of my work.
 
 ## Full-stack Projects 💻
-Collaborative projects I made with my peers, and personal projects I've done in my own time.
+<details>
+<summary>Collaborative projects I made with my peers, and personal projects I've done in my own time.<summary/>
 <br/>
   <p>
     <a href="https://github.com/roskzhu/Empa">
@@ -24,6 +25,7 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 </details>
 
 ## Machine Learning Projects 🧠
+<details>
 I've worked on a variety of machine-learning projects, as artificial intelligence is a sector I'm looking to specialize in. 
 <br/>
   <p>
