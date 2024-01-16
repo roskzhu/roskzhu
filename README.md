@@ -6,9 +6,9 @@ I have great interest in full-stack development, machine learning, cybersecurity
 ## Full-stack Projects 💻
 
 <details>
-<summary>Collaborative projects I made with my peers, and personal projects I've done in my own time.<summary/>
-  
-<br/>
+  <summary>Collaborative projects I made with my peers, and personal projects I've done in my own time.<summary/>
+    
+  <br/>
   <p>
     <a href="https://github.com/roskzhu/Empa">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Empa&theme=github_dark"/>
@@ -28,9 +28,9 @@ I have great interest in full-stack development, machine learning, cybersecurity
 ## Machine Learning Projects 🧠
 
 <details>
-<summary>I've worked on a variety of machine-learning projects, as artificial intelligence is a sector I'm looking to specialize in. <summary/>
-  
-<br/>
+  <summary>I've worked on a variety of machine-learning projects, as artificial intelligence is a sector I'm looking to specialize in. <summary/>
+    
+  <br/>
   <p>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=github_dark&show_owner=true"/>
