@@ -21,7 +21,6 @@ I have great interest in full-stack development, machine learning, cybersecurity
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=github_dark"/>
     </a>
   </p>
-
 </details>
 
 ## Machine Learning Projects 🧠
@@ -36,7 +35,6 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=github_dark&show_owner=true"/>
     </a>
   </p>
-
 </details>
 
 ## Technologies 🔧
