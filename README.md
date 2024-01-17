@@ -1,4 +1,4 @@
-`[![website](display.svg "website")](https://rosannezhu.com)
+[![website](display.svg "website")](https://rosannezhu.com)
 # Welcome to my GitHub page! I'm Rosanne 👋
 Hey there! I'm a Computer Science student at the University of Waterloo searching for Summer 2024 internship opportunities. Previously, I worked as a SWE intern for BMO Financial Group.
 I have great interest in full-stack development, machine learning, cybersecurity, and everything in between. Scroll down to see some of my work.
