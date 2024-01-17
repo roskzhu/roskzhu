@@ -38,7 +38,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 </details>
 
 ## Technologies 🔧
-![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)
+![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&theme=github_dark&layout=compact)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=github_dark&showicons=true)
 
 ## Send me a message! 🗨️
