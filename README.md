@@ -1,4 +1,4 @@
-[![website](display.svg "website")](https://rosannezhu.com)
+`[![website](display.svg "website")](https://rosannezhu.com)
 # Welcome to my GitHub page! I'm Rosanne 👋
 Hey there! I'm a Computer Science student at the University of Waterloo searching for Summer 2024 internship opportunities. Previously, I worked as a SWE intern for BMO Financial Group.
 I have great interest in full-stack development, machine learning, cybersecurity, and everything in between. Scroll down to see some of my work.
@@ -50,6 +50,6 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 
 <div>
 <!-- ## Github Stats -->
-[![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=gotham&showicons=true)]()
+![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=gotham&showicons=true)
 </div>
