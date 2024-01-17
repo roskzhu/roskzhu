@@ -41,6 +41,7 @@ I've worked on a variety of machine-learning projects, as artificial intelligenc
 * Languages: `Python` `C/C++` `Golang` `Java` `Javascript` `Typescript`  `SQL`  `Bash`  
 * Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `MongoDB` `PostgreSQL` `SQLite`
+
 ![My GitHub Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roskzhu&langs_count=8&tex&theme=github_dark&layout=compact)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=github_dark&showicons=true)
 
