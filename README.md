@@ -18,8 +18,8 @@ Collaborative projects I made with my peers, and personal projects I've done in 
     <a href="https://github.com/roskzhu/Toronto-Shelter-Metrics-Map">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Toronto-Shelter-Metrics-Map&theme=github_dark"/>
     </a>
-    <a href="https://github.com/roskzhu/CollaboraCart">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CollaboraCart&theme=github_dark"/>
+    <a href="https://github.com/roskzhu/ReMindful">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=ReMindful&theme=github_dark"/>
     </a>
   </p>
 </details>
