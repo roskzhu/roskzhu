@@ -15,12 +15,12 @@ Collaborative projects I made with my peers, and personal projects I've done in 
     <a href="https://github.com/roskzhu/CareCompanion">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=github_dark"/>
     </a>    
-    <a href="https://github.com/roskzhu/Toronto-Shelter-Metrics-Map">
+<!--     <a href="https://github.com/roskzhu/Toronto-Shelter-Metrics-Map">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Toronto-Shelter-Metrics-Map&theme=github_dark"/>
     </a>
     <a href="https://github.com/roskzhu/ReMindful">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=ReMindful&theme=github_dark"/>
-    </a>
+    </a> -->
   </p>
 </details>
 
