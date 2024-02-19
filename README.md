@@ -9,8 +9,8 @@ I have great interest in **full-stack** development, **machine learning**, cyber
 Collaborative projects I made with my peers, and personal projects I've done in my own time.</summary>
   <br/>
   <p>
-    <a href="https://github.com/roskzhu/Empa">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Empa&theme=github_dark"/>
+    <a href="https://github.com/roskzhu/RTQlate">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=RTQlate&theme=github_dark"/>
     </a>
     <a href="https://github.com/roskzhu/CareCompanion">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=github_dark"/>
@@ -29,11 +29,11 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 I've worked on a variety of machine-learning projects, as artificial intelligence is a sector I'm specializing in. </summary>
   <br/>
   <p>
+    <a href="https://github.com/roskzhu/Empa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Empa&theme=github_dark"/>
+    </a>
     <a href="https://github.com/roskzhu/AutonomyBootcamp">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=AutonomyBootcamp&theme=github_dark&show_owner=true"/>
-    </a>
-      <a href="https://github.com/roskzhu/IntactChallenge">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roskzhu&repo=IntactChallenge&theme=github_dark&show_owner=true"/>
     </a>
   </p>
 </details>
