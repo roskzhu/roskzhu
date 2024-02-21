@@ -10,7 +10,7 @@ Collaborative projects I made with my peers, and personal projects I've done in 
   <br/>
   <p>
     <a href="https://github.com/roskzhu/RTQlate">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=RTQlate&theme=tokyo_night"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=RTQlate&theme=github_dark"/>
     </a>
     <a href="https://github.com/roskzhu/CareCompanion">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=CareCompanion&theme=github_dark"/>
