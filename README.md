@@ -1,6 +1,6 @@
 [![website](display.svg "website")](https://rosannezhu.com)
 # Welcome to my GitHub page! I'm Rosanne 👋
-Hey there! I'm a **Computer Science** student at the **University of Waterloo** searching for **Fall 2024 internship** opportunities. I'm currently working as a Software Engineer Intern at Wealthsimple. Previously, I worked as a SWE intern for BMO Financial Group.
+Hey there! I'm a **Computer Science** student at the **University of Waterloo**, currently working as a Software Engineer Intern at Wealthsimple.
 
 I have great interest in **full-stack** development, **machine learning**, cybersecurity, and everything in between! 
 
