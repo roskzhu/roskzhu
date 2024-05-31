@@ -2,7 +2,7 @@
 # Welcome to my GitHub page! I'm Rosanne 👋
 Hey there! I'm a **Computer Science** student at the **University of Waterloo**, currently working as a Software Engineer Intern at Wealthsimple. I'm seeking 2024/2025 internship opportunities!
 
-## Full-stack Projects 💻
+## Personal Projects 💻
 
 <details>
 <summary>Click to see some collaborative projects I made with my peers!</summary>
