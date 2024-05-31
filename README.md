@@ -4,7 +4,7 @@ Hey there! I'm a **Computer Science** student at the **University of Waterloo**,
 
 ## Full-stack Projects 💻
 
-Collaborative projects I made with my peers, and personal projects I've done in my own time.</summary>
+<summary>Click to see some collaborative projects I made with my peers!</summary>
   <br/>
   <p>
     <a href="https://github.com/roskzhu/RTQlate">
