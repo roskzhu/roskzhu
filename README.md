@@ -4,6 +4,7 @@ Hey there! I'm a **Computer Science** student at the **University of Waterloo**,
 
 ## Full-stack Projects 💻
 
+<details>
 <summary>Click to see some collaborative projects I made with my peers!</summary>
   <br/>
   <p>
