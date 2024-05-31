@@ -21,8 +21,6 @@ Collaborative projects I made with my peers, and personal projects I've done in 
 * Frameworks/Libraries: `Flask` `Express.js` `Node.js` `React.js` `Next.js` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
 * Developer Tools: `Linux` `Git` `AWS` `Docker` `MongoDB` `PostgreSQL` `SQLite`
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roskzhu&count_private=true&theme=github_dark&showicons=true)
-
 ## Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
