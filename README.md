@@ -1,5 +1,3 @@
-[![website](display.svg "website")](https://rosannezhu.com)
-
 👋 Hey there! I'm a **Computer Science** student at the **University of Waterloo**, seeking 2025 internship opportunities!
 
 ## Personal Projects 💻
