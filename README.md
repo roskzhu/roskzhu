@@ -1,4 +1,5 @@
-👋 Hey there! I'm a **Computer Science** student at the **University of Waterloo**, seeking 2025 internship opportunities!
+# 👋 Hey there! 
+I'm a **Computer Science** student at the **University of Waterloo**, seeking 2025 internship opportunities!
 
 ### Personal Projects 💻
 
