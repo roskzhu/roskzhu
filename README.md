@@ -1,8 +1,6 @@
 ## 👋 Hey there! 
 My name is Rosanne and I'm a **Computer Science** student at the **University of Waterloo**, seeking 2025 internship opportunities!
 
-### Personal Projects 💻
-
 <details>
 <summary>Click to see some collaborative projects I made with my peers!</summary>
   <br/>
@@ -16,7 +14,6 @@ My name is Rosanne and I'm a **Computer Science** student at the **University of
   </p>
 </details>
 
-### Send me a message! 🗨️
 * Email me at: rosannezhu@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
 * Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
