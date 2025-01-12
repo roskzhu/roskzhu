@@ -1,20 +1,5 @@
-## 👋 Hey there! 
-My name is Rosanne and I'm a **Computer Science** student at the **University of Waterloo**, seeking 2025 internship opportunities!
+## 👋 Hi, I'm Rosanne! 
+I'm a **Computer Science** student currently pursuing an AI specialization at the **University of Waterloo**. I'm interested in artificial intelligence, low-level programming, distributed systems, and concurrency. 
 
-<details>
-<summary>Click to see some collaborative projects I made with my peers!</summary>
-  <br/>
-  <p>
-    <a href="https://github.com/roskzhu/RTQlate">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=RTQlate&theme=github_dark"/>
-    </a>
-    <a href="https://github.com/roskzhu/Remindful">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roskzhu&repo=Remindful&theme=github_dark"/>
-    </a>   
-  </p>
-</details>
-
-Get in touch here:
-* Email me at: rosannezhu@gmail.com
-* Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
-* Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
+Seeking 2025 internship opportunities!
+Feel free send me an email (rosannezhu@gmail.com) or reach out on LinkedIn :)
