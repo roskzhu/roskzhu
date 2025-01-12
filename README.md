@@ -3,5 +3,4 @@ I'm Rosanne, a **Computer Science** student currently pursuing an AI specializat
 
 I'm interested in artificial intelligence, low-level programming, distributed systems, and concurrency. 
 
-Currently seeking 2025 internship opportunities!
-Feel free send me an email (rosannezhu@gmail.com) or reach out on LinkedIn :)
+Currently seeking 2025 internship opportunities! Connect with me on LinkedIn or send me an email (rosannezhu@gmail.com)
