@@ -14,6 +14,7 @@ My name is Rosanne and I'm a **Computer Science** student at the **University of
   </p>
 </details>
 
+Get in touch!
 * Email me at: rosannezhu@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/rosanne-zhu/](https://www.linkedin.com/in/rosanne-zhu/)
 * Learn more about me on my personal website: [rosannezhu.com](https://rosannezhu.com/)
